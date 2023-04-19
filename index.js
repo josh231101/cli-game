@@ -9,7 +9,7 @@ import { createSpinner } from 'nanospinner';
 
 // Hello this is my name
 let playerName;
-
+// Other comment
 const sleep = (ms = 2000) => new Promise((r) => setTimeout(r, ms));
 
 async function welcome() {
